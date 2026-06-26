@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-006d-b38592b000cd.gif" width="100">
   
-  <h1>Hi 👋, I'm Chirumamilla Bindu Sri</h1>
+  <h1>Hi 👋, I'm Bindu Sri Chirumamilla</h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Junior+Associate+Developer;Java+%7C+Spring+%7C+Spring+Boot+Enthusiast;Building+scalable+backend+solutions;1+Year+of+Professional+Experience" alt="Typing SVG">
 </div>
@@ -74,7 +74,7 @@ I'm a passionate **Junior Associate Developer** with **1 year of professional ex
 I'm always open to collaborating on interesting projects and discussing tech. Feel free to reach out!
 
 - 💼 **LinkedIn**: [Chirumamilla Bindu Sri](https://www.linkedin.com/in/bindu-sri-chirumamilla-349619302?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- 📧 **Email**: [Your Email Here]
+- 📧 **Email**: [bindusrichirumamilla@gmail.com]
 - 🐙 **GitHub**: [Bindu20032004](https://github.com/Bindu20032004)
 
 ---
