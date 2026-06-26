@@ -100,7 +100,7 @@ Developed a full-stack Learning Management System that streamlines training oper
 I'm always open to collaborating on interesting projects and discussing tech. Feel free to reach out!
 
 - 💼 **LinkedIn**: [Chirumamilla Bindu Sri](https://www.linkedin.com/in/bindu-sri-chirumamilla-349619302?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- 📧 **Email**: [Your Email Here]
+- 📧 **Email**: [bindusrichirumamilla@gmail.com]
 - 🐙 **GitHub**: [Bindu20032004](https://github.com/Bindu20032004)
 
 ---
