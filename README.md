@@ -14,12 +14,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Junior Associate Developer** with **1 year of professional experience** building robust Java-based applications. I love crafting clean, efficient code and creating content about tech, development, and innovation. When I'm not coding, you'll find me creating engaging content across multiple platforms.
+I'm a passionate **Junior Associate Developer** with **1 year of professional experience** building robust Java-based applications. I love crafting clean, efficient code and staying updated with the latest technologies. Always eager to learn and contribute to meaningful projects.
 
 - 💻 Specialized in **Java, Spring & Spring Boot** backend development
-- 🎥 Content Creator on **YouTube** sharing development insights and tutorials
-- 📝 Writing technical articles on **Medium**
-- 📸 Sharing development journey on **Instagram**
+- 🏗️ Building scalable and robust applications
+- 📚 Continuous learner and tech enthusiast
+- 🤝 Team player with strong communication skills
 - ⚡ Passionate about clean code architecture and best practices
 - 🎯 Always learning and building new projects
 
@@ -50,9 +50,6 @@ I'm a passionate **Junior Associate Developer** with **1 year of professional ex
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bindu-sri-chirumamilla-349619302?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bindu20032004)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@BinduSriDev)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bindu_sri_dev)
 
 </div>
 
@@ -87,7 +84,7 @@ I'm a passionate **Junior Associate Developer** with **1 year of professional ex
 I'm always open to collaborating on interesting projects and discussing tech. Feel free to reach out!
 
 - 💼 **LinkedIn**: [Chirumamilla Bindu Sri](https://www.linkedin.com/in/bindu-sri-chirumamilla-349619302?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- 📧 **Email**: [Your Email Here]
+- 📧 **Email**: [bindusrichirumamilla@gmail.com]
 - 🐙 **GitHub**: [Bindu20032004](https://github.com/Bindu20032004)
 
 ---
