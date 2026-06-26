@@ -69,11 +69,11 @@ I'm a passionate **Junior Associate Developer** with **1 year of professional ex
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity
 
 <div align="center">
   
-  [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Bindu20032004&theme=onedark&no-frame=true&column=4)](https://github.com/Bindu20032004)
+  [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bindu20032004&theme=tokyonight)](https://github.com/Bindu20032004)
 
 </div>
 
