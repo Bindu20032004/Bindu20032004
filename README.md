@@ -69,22 +69,12 @@ I'm a passionate **Junior Associate Developer** with **1 year of professional ex
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-  
-  [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bindu20032004&theme=tokyonight)](https://github.com/Bindu20032004)
-
-</div>
-
----
-
 ## 💬 Let's Connect!
 
 I'm always open to collaborating on interesting projects and discussing tech. Feel free to reach out!
 
 - 💼 **LinkedIn**: [Chirumamilla Bindu Sri](https://www.linkedin.com/in/bindu-sri-chirumamilla-349619302?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-- 📧 **Email**: [bindusrichirumamilla@gmail.com]
+- 📧 **Email**: [Your Email Here]
 - 🐙 **GitHub**: [Bindu20032004](https://github.com/Bindu20032004)
 
 ---
